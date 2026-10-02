@@ -32,8 +32,6 @@ Enter PIN
 Keypad sends input
     ↓
 Arduino checks the PIN
-    ↓
-      ┌───────────────┐
       ↓               ↓
  Correct           Incorrect
       ↓               ↓
