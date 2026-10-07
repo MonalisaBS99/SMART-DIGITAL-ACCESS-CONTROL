@@ -25,17 +25,7 @@ The goal is to keep improving it step by step and eventually make the digital PI
 - "#" to submit the PIN
 - Access granted / denied messages
 
-🔄 How It Works
 
-Enter PIN
-    ↓
-Keypad sends input
-    ↓
-Arduino checks the PIN
-      ↓               ↓
- Correct           Incorrect
-      ↓               ↓
-Access Granted   Access Denied
 
 💻 Code
 
